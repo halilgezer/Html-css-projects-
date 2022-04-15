@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding : 0px;
+}
+
+body {
+    background-color:crimson ;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.kapsa {
+    width: 900px ;
+    height: auto ;
+    margin: 0px auto ;
+    background-color:#ddd;
+    padding: 50px;
+    text-align: justify;     
+}
+ .kapsa p {
+    font-size: 110%;
+    line-height: 130% ;
+    word-spacing: 2px;
+}
+.kapsa .sol {
+    float: left;
+    margin-right: 15px ;
+}
+.kapsa .sag {
+    float: right;
+    margin-right: 40px;
+    margin-left: 15px;
+}
+.kapsa .egik {
+    font-size: 130%;
+}
+.kapsa h1 {
+    text-align: center;
+}
+.kapsa h2 {
+    margin-top: 30px;
+    margin-bottom:  30px;
+    color: brown;
+    border-bottom: 2px dotted brown ;
+}
